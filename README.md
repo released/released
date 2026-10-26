@@ -54,6 +54,21 @@ Technical references, development notes, and troubleshooting guides.
 
 ---
 
+## 🔍 How to Find a Project
+
+With hundreds of repositories, searching is usually faster than browsing manually.
+
+**Search tips:**
+
+* Know the MCU? Search by device family: `M031`, `MS51`, `RL78`, `RH850`.
+* Know the peripheral? Search by function: `UART`, `SPI`, `I2C`, `PWM`, `ADC`.
+* Looking for firmware updates? Try `ISP`, `IAP`, or `Bootloader`.
+* Looking for a GUI utility? Try `Simple`, `Tool`, or `PMBus`.
+
+**[🔎 Search My GitHub Repositories](https://github.com/released?tab=repositories)**
+
+---
+
 ## 💻 MCU Example Projects
 
 A collection of MCU peripheral examples, experiments, and reference implementations.
@@ -99,21 +114,6 @@ Some standalone utilities for development, testing, debugging, and data processi
 | [PMBus / SMBus Tool](https://github.com/released/simple_pmbus_smbus_tool) | PMBus and SMBus development utility.                   |
 
 More projects can be found in [all repositories](https://github.com/released?tab=repositories).
-
----
-
-## 🔍 How to Find a Project
-
-With hundreds of repositories, searching is usually faster than browsing manually.
-
-**Search tips:**
-
-* Know the MCU? Search by device family: `M031`, `MS51`, `RL78`, `RH850`.
-* Know the peripheral? Search by function: `UART`, `SPI`, `I2C`, `PWM`, `ADC`.
-* Looking for firmware updates? Try `ISP`, `IAP`, or `Bootloader`.
-* Looking for a GUI utility? Try `GUI`, `Tool`, or `PMBus`.
-
-**[🔎 Search My GitHub Repositories](https://github.com/search?q=user%3Areleased&type=repositories)**
 
 ---
 
