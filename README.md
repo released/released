@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi! I'm Released 👋
 
-<!--
-**released/released** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCU | Embedded Systems | Firmware | Software Tools
 
-Here are some ideas to get you started:
+Just an engineer sharing code, experiments, and random ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚗 Fork it. Fix it. I don't car.
+
+Found something useful? Feel free to fork it!
+
+* 🔧 Like it? Fork it.
+* 🐛 Found a bug? Fix it.
+* 💡 Need a feature? Build it.
+* 🚀 Made it better? Enjoy it.
+* ☕ Need support? Coffee first. No promises.
+
+Most repositories are shared for learning, experimentation, and technical reference.
+
+**No warranty. No guaranteed support. No maintenance commitments.**
+
+Please respect applicable licenses, copyrights, and third-party restrictions.
+
+---
+
